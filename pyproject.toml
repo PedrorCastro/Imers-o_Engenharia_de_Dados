@@ -1,0 +1,7 @@
+[project]
+name = "imers-o-engenharia-de-dados"
+version = "0.1.0"
+dependencies = []
+
+[tool.databricks.environment]
+environment_version = "5"
